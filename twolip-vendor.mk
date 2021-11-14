@@ -1191,7 +1191,6 @@ PRODUCT_PACKAGES += \
 	com.quicinc.cne.constants@1.0 \
 	com.quicinc.cne.constants@2.0 \
 	com.quicinc.cne.constants@2.1 \
-	SoterService \
 	CneApp \
 	IWlanService \
 	manifest_android.hardware.drm@1.3-service.widevine \
